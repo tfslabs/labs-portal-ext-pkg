@@ -1,0 +1,3 @@
+[submodule "ibm-q-labs"]
+	path = ibm-q-labs
+	url = https://github.com/tfslabs/ibm-q-labs.git
